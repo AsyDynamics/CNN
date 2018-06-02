@@ -1,0 +1,12 @@
+0-500: 2684
+501-2000: 8002
+2001-3000: 5508 
+3001-4000: 5371
+4001-5000: 5472
+5001-6000: 5602
+6001-7481: 7895
+
+
+the type of object: 'Car', 'Van', 'Truck',
+                     'Pedestrian', 'Person_sitting', 'Cyclist', 'Tram',
+                     'Misc' or 'DontCare'
