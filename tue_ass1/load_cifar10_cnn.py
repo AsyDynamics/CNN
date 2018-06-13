@@ -3,7 +3,7 @@ from tensorflow.python.keras.models import load_model
 
 # returns a compiled model
 # Windows path, for Linux change \\ to /
-model = load_model('./saved_models/keras_cifar10_trained_model.h5')
+model = load_model('./model.h5')
 
 # print layers
 for layer in model.layers:
