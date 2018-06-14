@@ -1,2 +1,2 @@
 # CNN
-This project is about the deep learning, especially the CNN. The notes or other study materials are stored here.
+This repo is about the Advanced Sensing Using Deep Learning course.
